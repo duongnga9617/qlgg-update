@@ -1,0 +1,4 @@
+THA.exe=1.1
+THA.xlsm=1.1
+Chuyentrai.exe=1.1
+Chuyentrai.xlsm=1.1
