@@ -1,4 +1,5 @@
-THA.exe=1.4
-THA.xlsm=1.4
-Chuyentrai.exe=1.4
-Chuyentrai.xlsm=1.4
+APP=1.2
+THA.exe=1.1
+THA.xlsm=1.0
+Chuyentrai.exe=1.2
+Chuyentrai.xlsm=1.0
