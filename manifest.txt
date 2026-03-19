@@ -3,3 +3,4 @@ THA.exe=1.2
 THA.xlsm=1.2
 Chuyentrai.exe=1.2
 Chuyentrai.xlsm=1.2
+hs.jpg=1.2
