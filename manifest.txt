@@ -1,8 +1,8 @@
-APP=2.0
-THA.exe=2.0
-THA.xlsm=2.0
-Chuyentrai.exe=2.0
-Chuyentrai.xlsm=2.0
-hs.jpg=2.0
-TX-DC.exe=2.0
-dieuchuyenve.xlsm=2.0
+APP=1.5
+THA.exe=1.5
+THA.xlsm=1.5
+Chuyentrai.exe=1.5
+Chuyentrai.xlsm=1.5
+hs.jpg=1.5
+TX-DC.exe=1.5
+dieuchuyenve.xlsm=1.5
