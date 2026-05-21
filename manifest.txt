@@ -1,4 +1,4 @@
-Tien Ich=2.0
+APP=2.0
 THA.exe=2.0
 THA.xlsm=2.0
 Chuyentrai.exe=2.0
