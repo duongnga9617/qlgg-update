@@ -6,3 +6,5 @@ Chuyentrai.xlsm=2.0
 hs.jpg=2.0
 TX-DC.exe=2.0
 dieuchuyenve.xlsm=2.0
+LapHS.exe
+Laphs.xlsm
